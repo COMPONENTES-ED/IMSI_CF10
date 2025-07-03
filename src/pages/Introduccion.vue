@@ -71,8 +71,8 @@
         </div>
       </div>
       <h5 class="mb-4 text-center bg1 p-3">
-        ¡Bienvenido a al mundo de la implementación de comunicaciones unificadas
-        y sistemas de seguridad!
+        ¡Bienvenido al mundo de la implementación de comunicaciones unificadas y
+        sistemas de seguridad!
       </h5>
       <div class="row justify-content-center align-items-center">
         <div class="col-lg-12">

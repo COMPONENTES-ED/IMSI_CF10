@@ -132,7 +132,7 @@ export default {
             'Tecnología que permite realizar llamadas de voz a través de redes IP, reduciendo costos y mejorando la flexibilidad en la comunicación.',
         },
         {
-          termino: '<i>VoIP</i> (<i>Voice over</i> IP)',
+          termino: 'VoIP (<i>Voice over</i> IP)',
           significado:
             'Tecnología que permite la transmisión de voz sobre internet en lugar de líneas telefónicas convencionales, facilitando la telefonía IP.',
         },

@@ -23,7 +23,7 @@ export default {
     referencias: [
       {
         referencia:
-          'Bosch Security and Safety Systems. (s.f.).<i> Documentación técnica de Video Analytics</i>.  ',
+          'Bosch <em>Security and Safety Systems.</em> (s.f.).<i> Documentación técnica de Video Analytics</i>.  ',
         link:
           'https://www.boschsecurity.com/xl/es/soluciones/sistemas-de-video/video-analytics/documentacion-tecnica-de-video-analytics/',
       },
@@ -35,7 +35,7 @@ export default {
       },
       {
         referencia:
-          'Eagle Eye Networks. (2021). <i>GUÍA DE BUENAS PRÁCTICAS Manual de Videoseguridad</i>.  ',
+          '<em>Eagle Eye Networks.</em> (2021). <i>GUÍA DE BUENAS PRÁCTICAS Manual de Videoseguridad</i>.  ',
         link:
           'https://www.een.com/wp-content/uploads/2021/05/Video-Security-Primer-20210519_ES_compressed.pdf',
       },
@@ -43,7 +43,7 @@ export default {
         referencia:
           'García, M., & Fernández, L. (2018). <i>Tecnologías de comunicaciones unificadas en entornos empresariales</i>. Editorial Reverte.  ',
         link:
-          'https://editorialreverte.com/catalogo https://alphaenginyeria.com/la-importancia-de-las-comunicaciones-unificadas-en-el-entorno-empresarial',
+          'https://alphaenginyeria.com/la-importancia-de-las-comunicaciones-unificadas-en-el-entorno-empresarial',
       },
       {
         referencia:

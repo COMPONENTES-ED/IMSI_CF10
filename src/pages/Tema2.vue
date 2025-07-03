@@ -164,9 +164,9 @@
                 fundamentales en el entorno de las comunicaciones unificadas,
                 facilitando la comunicación rápida y eficiente a través de
                 diversas plataformas, como la mensajería instantánea, correos
-                electrónicos, y notificaciones push. Estos servicios permiten a
-                los usuarios interactuar y transmitir información de manera
-                sincrónica y asincrónica, contribuyendo a la continuidad
+                electrónicos, y notificaciones <em>push</em>. Estos servicios
+                permiten a los usuarios interactuar y transmitir información de
+                manera sincrónica y asincrónica, contribuyendo a la continuidad
                 operativa y mejorando la comunicación entre equipos y
                 departamentos. Por otra parte, ofrecen la posibilidad de
                 integrar diferentes aplicaciones, permitiendo que la información
