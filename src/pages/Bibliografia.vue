@@ -23,21 +23,21 @@ export default {
     referencias: [
       {
         referencia:
-          'Bosch <em>Security and Safety Systems.</em> (s.f.).<i> Documentación técnica de Video Analytics</i>.  ',
+          'Bosch Security and Safety Systems. (s.f.). <em>Documentación técnica de Video Analytics.</em> ',
         link:
           'https://www.boschsecurity.com/xl/es/soluciones/sistemas-de-video/video-analytics/documentacion-tecnica-de-video-analytics/',
       },
       {
         referencia:
-          'Chao, H. C., & Lin, J. (2019). <i>Quality of Service in VoIP and Unified Communications. Journal of Communications, 43</i>(4), 257-266.  ',
+          'Chao, H. C., & Lin, J. (2019). <em> Quality of Service in VoIP and Unified Communications. Journal of Communications,</em> 43(4), 257-266. ',
         link:
           'https://www.fortinet.com/resources/cyberglossary/qos-quality-of-service',
       },
       {
         referencia:
-          '<em>Eagle Eye Networks.</em> (2021). <i>GUÍA DE BUENAS PRÁCTICAS Manual de Videoseguridad</i>.  ',
+          'Eagle Eye Networks. (2021). <em>GUÍA DE BUENAS PRÁCTICAS Manual de Videoseguridad</em>.  ',
         link:
-          'https://www.een.com/wp-content/uploads/2021/05/Video-Security-Primer-20210519_ES_compressed.pdf',
+          'https://www.een.com/wp-content/uploads/2021/05/Video-Security-Primer-20210519_ES_compressed.pdf ',
       },
       {
         referencia:
@@ -51,7 +51,7 @@ export default {
       },
       {
         referencia:
-          'Martínez, C., & Pérez, L. (2020). <i>Centros de control y operaciones en sistemas de seguridad avanzada</i>. Universidad de Alcalá.  Repositorio Institucional de la Universidad de Alcalá',
+          'Martínez, C., & Pérez, L. (2020). Centros de control y operaciones en sistemas de seguridad avanzada. Universidad de Alcalá.  Repositorio Institucional de la Universidad de Alcalá',
       },
       {
         referencia:
@@ -61,7 +61,7 @@ export default {
       },
       {
         referencia:
-          'Nolasco-Mamani, M. A., Espinoza, S. A., & Choque-Salcedo, R. (2023). <i>Innovación y Transformación Digital en el Empresa. Revista de Innovación Empresarial</i>, 10(2), 123-145.  ',
+          'Nolasco-Mamani, M. A., Espinoza, S. A., & Choque-Salcedo, R. (2023). Innovación y Transformación Digital en el Empresa. <i>Revista de Innovación Empresarial</i>, 10(2), 123-145.  ',
         link:
           'https://www.researchgate.net/publication/376210760_Innovacion_y_Transformacion_Digital_en_el_Empresa',
       },
@@ -77,7 +77,7 @@ export default {
       },
       {
         referencia:
-          'Sánchez, D. (2021). <i>Analítica de video en la seguridad urbana: Implementación y resultados. Revista Científica de Tecnología y Seguridad Urbana</i>.  ',
+          'Sánchez, D. (2021). Analítica de video en la seguridad urbana: Implementación y resultados. Revista Científica de Tecnología y Seguridad Urbana.  ',
         link:
           'https://innovacionindustrial.net/ciudades-inteligentes/como-analitica-video-transformando-seguridad-ciudades-inteligentes/',
       },

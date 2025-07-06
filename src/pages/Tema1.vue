@@ -109,14 +109,12 @@
         Estos <b>protocolos</b> son fundamentales en la transmisión de voz y
         datos en la Telefonía IP (VoIP), ya que permiten la configuración,
         modificación y finalización de llamadas. Entre los más relevantes
-        destacan
-        <i
-          >Session Initiation Protocol (SIP), H.323, y Media Gateway Control
-          Protocol (MGCP)</i
-        >. Cada uno de estos protocolos cumple funciones primordiales en la
-        comunicación de datos en redes de telefonía IP, estableciendo la ruta
-        que los datos deben seguir y la estructura de cada sesión, asegurando
-        así una conexión fluida entre los dispositivos.
+        destacan <i>Session Initiation Protocol</i> (SIP), H.323, y
+        <em>Media Gateway Control Protocol </em>(MGCP). Cada uno de estos
+        protocolos cumple funciones primordiales en la comunicación de datos en
+        redes de telefonía IP, estableciendo la ruta que los datos deben seguir
+        y la estructura de cada sesión, asegurando así una conexión fluida entre
+        los dispositivos.
       </p>
       <div class="row justify-content-center mb-4">
         <div class="col-lg-4 my-lg-0 my-3">
